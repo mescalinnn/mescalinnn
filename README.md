@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ibrahim "@mescalinnn" cigdem
 - 👀 I’m interested in web dev.
-- 🌱 I’m currently learning front end tools
+- 🌱 I’m currently learning html,css,js etc.
 - 📫 How to reach me ibrhmcigdem@icloud.com
 
 <!---
